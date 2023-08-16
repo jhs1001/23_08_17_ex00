@@ -1,0 +1,22 @@
+{
+  "name": "23-08-08_ex01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhs1001/23-08-08_ex01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhs1001/23-08-08_ex01/issues"
+  },
+  "homepage": "https://github.com/jhs1001/23-08-08_ex01#readme"
+}
